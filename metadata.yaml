@@ -1,0 +1,43 @@
+_repo: The-Picture-of-Dorian-Gray_26740
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: After having his portrait painted, the incredibly handsome young Dorian
+  Gray is captivated by his own beauty. Tempted by his world-weary and decadent friend
+  Lord Henry Wotton, he wishes to stay young forever and pledges his very soul to
+  keep his good looks. As Dorian's slide into moral decay progresses, his portrait
+  is marred because of his many sins, becoming old and disfigured, while he himself
+  remains young and perfect. The Picture of Dorian Gray, the only novel by Oscar Wilde,
+  was first published in 1890 and warns against the dangers of decadence and corruption.
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portraits -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'London (England) -- History -- 1800-1950 -- Fiction'
+- !lcsh 'Appearance (Philosophy) -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+title: The Picture of Dorian Gray
+url: http://www.gutenberg.org/ebooks/26740
